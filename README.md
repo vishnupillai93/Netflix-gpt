@@ -31,6 +31,9 @@
 - Built the movie list and card
 - TMDB image cdn url
 - Made the browse page with tailwind
+- GPT Search Page
+- GPT Search Bar
+- Multi language feature 
 
 
 
